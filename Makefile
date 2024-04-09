@@ -1,2 +1,3 @@
 setup:
-	conda env create --file environment.yml || conda env update --file environment.yml
+	mamba env create --file environment.yml || mamba env update --file environment.yml
+	

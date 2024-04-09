@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+biopython
+plotly
+Flask
+pytest
+
